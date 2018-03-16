@@ -22,8 +22,8 @@ patents and citations.
 - Output: `out.csv`, with the following contents:
 
 | year | results |
-|------|---------
-| ...  |    ...  |	|
+|------|---------|
+| ...  |    ...  |
 | 2011 |    141  |
 | 2012 |    292  |
 | 2013 |    889  |
