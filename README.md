@@ -34,7 +34,7 @@ patents and citations.
 ![bitcoin chart](https://raw.githubusercontent.com/Pold87/academic-keyword-occurrence/master/bitcoin_chart.png "bitcoin chart")
 
 ## Troubleshooting
-_OSX only_: Python 3.6 does not include any SSL certificates, therefore `https`
+_OSX only_: Python 3.6 does not include any SSL certificates, therefore any `https`
 request will fail due to the impossibility to verify the URL.
 
 This will lead to the following error:
